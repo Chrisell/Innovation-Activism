@@ -1,3 +1,8 @@
+# [Check Out Our Slack](https://innovationactivism.slack.com)
+
+# What We Are
+`TODO: Add Goals Here`
+
 # Citizen Code of Conduct
 
 ## 1. Purpose
